@@ -2,6 +2,10 @@
 
 Simple template to build an web based AI powered tool with SvelteKit, Supabase, OpenAI and LemonSqueezy.
 
+## Examples
+
+- [Component Wizard](https://componentwizard.com/)
+
 ## Development
 
 ### Requirements
